@@ -17,7 +17,7 @@
 
 ### 4) Переходим в папку с файлом manage.py:
 #### <command>
-    cd manage.py
+    cd mysite
 #### <command>
 
 ### 5) Прописываем следующую команду:
