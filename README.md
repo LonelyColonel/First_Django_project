@@ -4,11 +4,23 @@
 #### <command>
     git clone https://github.com/LonelyColonel/First_Django_project.git
 #### </command>
-### 2) Устанавливаем зависимости:
+
+### 2) Переходим в папку проекта:
+#### <command>
+    cd First_Django_project
+#### <command>
+
+### 3) Устанавливаем зависимости:
 #### <command>
     pip install -r requirements.txt
 #### </command>
-### 3) Прописываем следующую команду:
+
+### 4) Переходим в папку с файлом manage.py:
+#### <command>
+    cd manage.py
+#### <command>
+
+### 5) Прописываем следующую команду:
 #### <command>
     python manage.py runserver
 #### </command>
