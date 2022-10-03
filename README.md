@@ -28,3 +28,5 @@
 ### Вот и всё, мы на сайте.
 ### Видеопрезентация загружена сюда.
 ### https://disk.yandex.ru/d/Vw-rf59JUxzciA
+### И ещё сюда загрузил:
+### https://drive.google.com/drive/folders/1QptTMxTxB0oUs2IuyAN9_ZXL5jXODb_I?usp=sharing
